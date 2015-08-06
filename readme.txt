@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Changed
 branch dev
+branch issue-101
